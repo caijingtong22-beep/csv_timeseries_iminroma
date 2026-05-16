@@ -1,0 +1,40 @@
+Tier,Start_ms,End_ms,Duration_ms,Text,Clean_Text
+Stage,670617,679107,8490,Ultrasound  scanning,Ultrasound scanning
+Stage,681993,685652,3659,Ultrasound  scanning,Ultrasound scanning
+Stage,688568,694915,6347,Ultrasound  scanning,Ultrasound scanning
+Stage,696889,704925,8036,Ultrasound  scanning,Ultrasound scanning
+Event,703639,706535,2896,Unsure of anatomy,Unsure of anatomy
+Stage,767307,778971,11664,Venipuncture,Venipuncture
+Stage,793980,816040,22060,Wire Advancement,Wire advancement
+Stage,837262,843984,6722,Position check (ultrasound),Position check (ultrasound)
+Stage,858829,871603,12774,Position check (ultrasound),Position check (ultrasound)
+Event,861735,868942,7207,Other: Guidewire identified as leaving IJ - not happy with anatomy,Guidewire identified as leaving ij
+Stage,931246,955482,24236,Dilator,Dilator
+Stage,964970,978150,13180,Postion check (ultrasound),Position check (ultrasound)
+Stage,990677,1031018,40341,Catheterisation,Catheterisation
+Stage,1049399,1058236,8837,Position check (ultrasound),Position check (ultrasound)
+Stage,1074132,1075921,1789,Wire Removal  (with catheter),Wire removal
+Stage,1467425,1471028,3603,Ultrasound scanning,Ultrasound scanning
+Stage,1475282,1477875,2593,Ultrasound scanning,Ultrasound scanning
+Stage,1536026,1557472,21446,Venipuncture,Venipuncture
+Stage,1565084,1586677,21593,Venipuncture,Venipuncture
+Stage,1631182,1646878,15696,Venipuncture,Venipuncture
+Stage,1657573,1678602,21029,Wire In and minimal advancement,Wire advancement
+Stage,1681393,1689800,8407,Position check (ultrasound),Position check (ultrasound)
+Stage,1693655,1713151,19496,Wire Advancement,Wire advancement
+Stage,1769836,1823185,53349,Catheterisation,Catheterisation
+Stage,1823185,1827818,4633,Wire Removal,Wire removal
+Stage,2092748,2095073,2325,Ultrasound scanning,Ultrasound scanning
+Stage,2102429,2106737,4308,Ultrasound scanning,Ultrasound scanning
+Stage,2108993,2120291,11298,Venipuncture,Venipuncture
+Stage,2131539,2159840,28301,Wire Advancement,Wire advancement
+Stage,2183875,2191557,7682,Postion check (ultrasound),Position check (ultrasound)
+Stage,2205216,2230387,25171,Catheterisation,Catheterisation
+Stage,2231024,2235171,4147,Wire removal,Wire removal
+Stage,2510696,2514696,4000,Ultrasound scanning,Ultrasound scanning
+Stage,2536202,2557448,21246,Venipuncture,Venipuncture
+Stage,2573781,2596278,22497,Wire advancement,Wire advancement
+Event,2590403,2596249,5846,Ectopics,Ectopics
+Stage,2632134,2637057,4923,Position check (ultrasound),Position check (ultrasound)
+Stage,2649228,2689496,40268,Catheterisation,Catheterisation
+Stage,2689910,2697000,7090,Wire removal,Wire removal

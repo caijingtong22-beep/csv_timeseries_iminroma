@@ -1,0 +1,107 @@
+Tier,Start_ms,End_ms,Duration_ms,Text
+Block,557142,586485,29343,Experimental Baseline
+Condition,636436,1105435,468999,LWBE
+Block,636456,665907,29451,LWBE-A-Baseline
+Block,665907,714601,48694,LWBE-A-Procedure
+Stage,670617,679107,8490,Ultrasound  scanning
+Stage,681993,685652,3659,Ultrasound  scanning
+Stage,688568,694915,6347,Ultrasound  scanning
+Stage,696889,704925,8036,Ultrasound  scanning
+Event,703639,706535,2896,Unsure of anatomy
+Block,714601,744142,29541,LWBE-A-Recovery/ LWBE-B-Baseline
+Block,744146,890794,146648,LWBE-B-Procedure
+Stage,767307,778971,11664,Venipuncture
+Stage,793980,816040,22060,Wire Advancement
+Stage,837262,843984,6722,Position check (ultrasound)
+Stage,858829,871603,12774,Position check (ultrasound)
+Event,861735,868942,7207,Other: Guidewire identified as leaving IJ - not happy with anatomy
+Block,890794,920333,29539,LWBE-B-Recovery/ LWBE-C-Baseline
+Block,920411,1075917,155506,LWBE-C-Procedure
+Stage,931246,955482,24236,Dilator
+Stage,964970,978150,13180,Postion check (ultrasound)
+Stage,990677,1031018,40341,Catheterisation
+Stage,1049399,1058236,8837,Position check (ultrasound)
+Event,1063484,1070318,6834,Other: Not happy with positioning; wire left and ended.
+Stage,1074132,1075921,1789,Wire Removal  (with catheter)
+Block,1075917,1105414,29497,LWBE-C-Recovery
+Block,1368239,1397717,29478,HWBE-A-Baseline
+Condition,1368253,1868018,499765,HWBE
+Block,1397717,1478468,80751,HWBE-A-Procedure
+Event,1412360,1415132,2772,Bleep
+Event,1417814,1421418,3604,ODP inattention
+Event,1422764,1428582,5818,Bleep
+Event,1429348,1434571,5223,Clinical query ODP
+Event,1449264,1455171,5907,Bleep
+Stage,1467425,1471028,3603,Ultrasound scanning
+Event,1469970,1476565,6595,Clinical query
+Stage,1475282,1477875,2593,Ultrasound scanning
+Block,1478468,1508046,29578,HWBE-A-Recovery/HWBE-B-Baseline
+Block,1508046,1723293,215247,HWBE-B-Procedure
+Event,1508200,1514928,6728,Clinical query
+Event,1517478,1525468,7990,Medical student query
+Event,1532538,1546128,13590,Bleep
+Stage,1536026,1557472,21446,Venipuncture
+Event,1557928,1562095,4167,Medical student query
+Event,1562095,1572053,9958,Bleep
+Stage,1565084,1586677,21593,Venipuncture
+Event,1587534,1594013,6479,Medical student query
+Event,1606096,1617989,11893,Medical student query
+Event,1622443,1628310,5867,Clinical query
+Stage,1631182,1646878,15696,Venipuncture
+Event,1647468,1658032,10564,Clinical query
+Stage,1657573,1678602,21029,Wire In and minimal advancement
+Event,1659701,1667282,7581,ODP inattention
+Event,1667789,1678368,10579,Medical student query
+Event,1680933,1684643,3710,Clinical query
+Stage,1681393,1689800,8407,Position check (ultrasound)
+Event,1685868,1693775,7907,Medical student query
+Stage,1693655,1713151,19496,Wire Advancement
+Event,1704747,1708785,4038,ODP inattention
+Block,1723293,1752713,29420,HWBE-B-Recovery.HWBE-C-Baseline
+Block,1752713,1838532,85819,HWBE-C-Procedure
+Event,1758678,1765323,6645,Clinical query
+Event,1766218,1781432,15214,Bleep
+Stage,1769836,1823185,53349,Catheterisation
+Event,1783939,1792521,8582,Clinical query
+Event,1796232,1804405,8173,Medical student query
+Event,1804743,1812164,7421,Bleep
+Event,1818707,1828110,9403,Bleep
+Stage,1823185,1827818,4633,Wire Removal
+Block,1838532,1868000,29468,HWBE-C-Recovery
+Condition,2048978,2278210,229232,LWCE
+Block,2048978,2078389,29411,LWCE-Baseline
+Block,2078396,2248645,170249,LWCE-Procedure
+Stage,2092748,2095073,2325,Ultrasound scanning
+Stage,2102429,2106737,4308,Ultrasound scanning
+Stage,2108993,2120291,11298,Venipuncture
+Stage,2131539,2159840,28301,Wire Advancement
+Stage,2183875,2191557,7682,Postion check (ultrasound)
+Stage,2205216,2230387,25171,Catheterisation
+Stage,2231024,2235171,4147,Wire removal
+Block,2248645,2278182,29537,LWCE-Recovery
+Block,2442328,2471785,29457,HWCE-Baseline
+Condition,2442330,2739518,297188,HWCE
+Block,2471789,2710046,238257,HWCE-Procedure
+Event,2477046,2482418,5372,Clinical query
+Event,2482446,2485996,3550,Medical student query
+Event,2486118,2505282,19164,Bleep
+Stage,2510696,2514696,4000,Ultrasound scanning
+Event,2523381,2548332,24951,Bleep
+Stage,2536202,2557448,21246,Venipuncture
+Event,2569015,2582064,13049,ODP inattention
+Stage,2573781,2596278,22497,Wire advancement
+Event,2586318,2590285,3967,Medical student query
+Event,2590403,2596249,5846,Ectopics
+Event,2598232,2608739,10507,Clinical query
+Event,2609060,2614930,5870,Medical student query
+Event,2622416,2629225,6809,Medical student query
+Stage,2632134,2637057,4923,Position check (ultrasound)
+Event,2635437,2641357,5920,Clinical query
+Event,2642980,2658743,15763,Medical student query
+Stage,2649228,2689496,40268,Catheterisation
+Event,2661610,2671868,10258,Bleep
+Event,2672262,2679921,7659,ODP inattention
+Stage,2689910,2697000,7090,Wire removal
+Event,2703495,2709901,6406,Medical student query
+Block,2710046,2739525,29479,HWCE-Recovery
+Event,2710251,2720459,10208,Clinical query

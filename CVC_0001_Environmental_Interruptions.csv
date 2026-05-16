@@ -1,0 +1,43 @@
+Tier,Start_ms,End_ms,Duration_ms,Text,Clean_Text
+Event,1063484,1070318,6834,Other: Not happy with positioning; wire left and ended.,Other: not happy with positioning; wire left and ended.
+Event,1412360,1415132,2772,Bleep,Bleep
+Event,1417814,1421418,3604,ODP inattention,Odp inattention
+Event,1422764,1428582,5818,Bleep,Bleep
+Event,1429348,1434571,5223,Clinical query ODP,Clinical query
+Event,1449264,1455171,5907,Bleep,Bleep
+Event,1469970,1476565,6595,Clinical query,Clinical query
+Event,1508200,1514928,6728,Clinical query,Clinical query
+Event,1517478,1525468,7990,Medical student query,Medical student query
+Event,1532538,1546128,13590,Bleep,Bleep
+Event,1557928,1562095,4167,Medical student query,Medical student query
+Event,1562095,1572053,9958,Bleep,Bleep
+Event,1587534,1594013,6479,Medical student query,Medical student query
+Event,1606096,1617989,11893,Medical student query,Medical student query
+Event,1622443,1628310,5867,Clinical query,Clinical query
+Event,1647468,1658032,10564,Clinical query,Clinical query
+Event,1659701,1667282,7581,ODP inattention,Odp inattention
+Event,1667789,1678368,10579,Medical student query,Medical student query
+Event,1680933,1684643,3710,Clinical query,Clinical query
+Event,1685868,1693775,7907,Medical student query,Medical student query
+Event,1704747,1708785,4038,ODP inattention,Odp inattention
+Event,1758678,1765323,6645,Clinical query,Clinical query
+Event,1766218,1781432,15214,Bleep,Bleep
+Event,1783939,1792521,8582,Clinical query,Clinical query
+Event,1796232,1804405,8173,Medical student query,Medical student query
+Event,1804743,1812164,7421,Bleep,Bleep
+Event,1818707,1828110,9403,Bleep,Bleep
+Event,2477046,2482418,5372,Clinical query,Clinical query
+Event,2482446,2485996,3550,Medical student query,Medical student query
+Event,2486118,2505282,19164,Bleep,Bleep
+Event,2523381,2548332,24951,Bleep,Bleep
+Event,2569015,2582064,13049,ODP inattention,Odp inattention
+Event,2586318,2590285,3967,Medical student query,Medical student query
+Event,2598232,2608739,10507,Clinical query,Clinical query
+Event,2609060,2614930,5870,Medical student query,Medical student query
+Event,2622416,2629225,6809,Medical student query,Medical student query
+Event,2635437,2641357,5920,Clinical query,Clinical query
+Event,2642980,2658743,15763,Medical student query,Medical student query
+Event,2661610,2671868,10258,Bleep,Bleep
+Event,2672262,2679921,7659,ODP inattention,Odp inattention
+Event,2703495,2709901,6406,Medical student query,Medical student query
+Event,2710251,2720459,10208,Clinical query,Clinical query
